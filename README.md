@@ -19,8 +19,7 @@
 <body>
 <div class="message">
 
-<h3><span>not everything on this website is mine, only the searching thing was made from scratch. (credits to the creator of lucid)
-</span>
+# not everything on this website is mine, only the searching thing was made from scratch. (credits to the creator of lucid)
   
 <span>  this was mostly made by only me @RebeccaHuang3 also known as FeetusAndRatEater or something like that                      </span>
 
@@ -30,25 +29,3 @@
   </span>
 
   ENJOY!
-
-</h3>
-
-</div>
-<style>
-
-  
-message a{
-font-family:'Quicksans', sans serif;
-  font size: 20px;
-
-
-  
-}
-  body{
-
-background-color:rgb(255, 213, 196);
-
-  }
-  </style>
-</body>
-  
