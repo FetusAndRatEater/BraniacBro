@@ -1,0 +1,1 @@
+{"version":2,"languages":{"nodejs-npm":{"specfileHash":"9b1040a9f8ab3d8857459da4a0d43bd0","lockfileHash":"3c0c6fe1f891d129540b4ccd6b7e584b","guessedImports":["ws","being","combat","ui","level","express","rollup-plugin-includepaths","rules.js","ai.js","opn","cooljs","util","conf.js","entity.js","jquery","item","jsdom"],"guessedImportsHash":"0fc482c951d37840d99d529522f60904"}}}
